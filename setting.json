@@ -267,7 +267,11 @@
   "workbench.statusBar.visible": false,
   "workbench.settings.applyToAllProfiles": [
   
+  
   ],
   "workbench.startupEditor": "none",
   "python.createEnvironment.trigger": "off",
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
 }
